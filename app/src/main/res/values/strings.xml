@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">myapp</string>
+    <string name="digite_o_valor">Digite o Valor</string>
+    <string name="Resultado">Resultado</string>
+    <string name="calcular">Calcular</string>
+</resources>
